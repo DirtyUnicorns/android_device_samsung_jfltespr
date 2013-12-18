@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/aosp_jfltespr.mk \
-	$(LOCAL_DIR)/omni_jfltespr.mk 
+	$(LOCAL_DIR)/du_jfltespr.mk 

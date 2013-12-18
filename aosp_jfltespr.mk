@@ -15,4 +15,4 @@
 #
 $(call inherit-product, device/samsung/jfltespr/omni_jfltespr.mk)
 
-PRODUCT_NAME := aosp_jfltespr
+PRODUCT_NAME := du_jfltespr
