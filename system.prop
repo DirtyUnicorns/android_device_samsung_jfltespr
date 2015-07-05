@@ -17,3 +17,6 @@ persist.radio.snapshot_timer=22
 persist.eons.enabled=false
 
 ro.telephony.default_cdma_sub=1
+
+# du updater
+ro.du.updater=jfltespr

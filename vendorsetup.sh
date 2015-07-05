@@ -1,2 +1,1 @@
-add_lunch_combo cm_jfltespr-eng
-
+add_lunch_combo du_jfltespr-userdebug
